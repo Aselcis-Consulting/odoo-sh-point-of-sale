@@ -1,0 +1,12 @@
+[submodule "aselcis/pos_modules"]
+	path = aselcis/pos_modules
+	url = git@gitlab.com:aselcis-addons/pos/pos_modules.git
+	branch = 11.0
+[submodule "addons/l10n_es_pos_refund"]
+	path = addons/l10n_es_pos_refund
+	url = git@gitlab.com:aselcis-addons/pos/l10n_es_pos_refund.git
+	branch = 11.0
+[submodule "addons/l10n_es_pos"]
+	path = addons/l10n_es_pos
+	url = git@gitlab.com:aselcis-oca/l10n-spain/l10n_es_pos.git
+	branch = 11.0
