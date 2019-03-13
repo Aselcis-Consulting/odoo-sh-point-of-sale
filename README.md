@@ -1,0 +1,1 @@
+# odoo-sh-point-of-sale
